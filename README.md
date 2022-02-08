@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka605" alt="priyanka605" /></a> </p>
--🔭 I’m currently Studying on **KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY**
+  🔭 I’m currently Studying on KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY
 
 - 🌱 I’m currently learning **mongodb,springBoot**
 
